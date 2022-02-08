@@ -1,6 +1,6 @@
 # My personal site
 
-Using the great [**WhatATheme**](https://thedevslot.github.io/WhatATheme/) template
+Using the great [**WhatATheme**](https://thedevslot.github.io/WhatATheme/) template! You guys rock 🙌!!
 
 <!--
 #### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
