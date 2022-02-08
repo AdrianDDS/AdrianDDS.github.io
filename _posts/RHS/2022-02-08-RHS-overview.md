@@ -1,32 +1,15 @@
 ---
-title: About me
+title: Ronin-Hood Sisters
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: This is the very first post of my site and should serve to bring a clear image of what I want to do here.
+post-image: "https://img.itch.zone/aW1nLzc0MTY2ODkucG5n/original/i4jHVa.png"
+description: Post to sumarize my experience in the past months working as a game programmer and produccer in Ronin-Hood Sisters
 tags:
 - post
-- introduction
+- UTad
+- Education
 ---
 
-## Hola!
-
- Hello! I'm Adri, a Spanish mathematician, programmer and, most importantly, passionate about video games. I have loved this medium since I was 8 years old and my parents gave me a GameBoy Color and a copy of Pokemon Gold. Looking back, this title along with others like Final Fantasy Tactics, Golden Sun, Fire Emblem, Guild Wars, Hearthstone… (the list goes on) were the source of inspiration for the video game career I want to achieve.
-
-But then I grew up and I really had no idea what to do with my life. I had no coding skills nor did I really consider working in the industry, so I studied Mathematics. It really wasn't a difficult choice: I was good at math, I liked puzzles and problem solving, and I essentially enjoyed understanding the mechanics of things... so it seemed pretty clear to me :)
-
-When I finished my studies, I started working as a consulting data scientist. It wasn't my dream job, but I made good friends and discovered the similarities between programming and doing math. At least, from the point of view of understanding the behavior of abstract structures and finding out how to use them to solve different problems. So after 5 years working in data science I finally decided to quit and resume my studies, now aiming to use both math and coding to find a place in the games industry.
-
-## Last year
-
-This brings us to the point where I found the [masters degree in video game programming at U-tad](https://u-tad.com/en/studies/masters-degree-in-video-game-programming/), and it seemed exactly what i was looking for. I met some of the most talented people I've ever met and learned about the core of game programming. During the year my partners and I developed some demos (mostly at jam speed :') ) and even Ronin-Hood Sisters; a real game that served as the final project for the 18-member team (including programmers, artists and designers) who participated in its development.
-
-## Right Now
-
-It has been a really intense year, full of emotions, work and satisfaction. I really hope you can help me find a place in this, my beloved gaming industry, but even if not, I think it was worth it.
-
-I intend to use this site to showcase my projects and discuss different techniques that caught my eye. It will probably touch on different topics, but right now I'm more interested in the fields of programming and tech art that have a deeper mathematical foundation (for obvious reasons).
-
-Thanks for reading, I hope you like it!
+# WIP
 
 
 <!--
