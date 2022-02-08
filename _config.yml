@@ -18,7 +18,8 @@ site-keywords: Site, Template, Theme
 #favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+#heroimage: https://media.istockphoto.com/photos/blurred-background-coffee-shop-in-garden-picture-id635872714?k=20&m=635872714&s=612x612&w=0&h=YrcARBVErNLjL1-RIS8VQXoRg2LPkwjnhBE9k4ERvXc=
+heroimage: https://images.pexels.com/photos/220451/pexels-photo-220451.jpeg #?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -45,7 +46,7 @@ author-name: AdrianDDS
 # URL for the Image of the Author
 author-image: https://github.com/AdrianDDS.png
 # 60 Words About the Author
-author-about: Game dev, code & maths
+author-about: Game dev, code, games, maths, comics, manga... Typical nerd I guess 🤷‍
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/AdrianDDS
 
