@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Zer0-One
+title: Adrian Delgado
 # Description of the Site
-description: Hi! I'm Adri an this is my personal blog where I discuss about maths, programming, game dev and and mostly nerdy stuff
+description: Hi! I'm Adrian and this is my personal blog where I discuss about maths, programming, game dev and and mostly nerdy stuff. I love 
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: AdrianDDS
 # URL for the Image of the Author
-author-image: https://twitter.com/Adrian_Delgado_/photo
+author-image: https://github.com/AdrianDDS.png
 # 60 Words About the Author
 author-about: Game dev, code & maths
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
